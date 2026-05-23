@@ -43,5 +43,3 @@ I also built a complete Currency Exchange System including:
 • Building reusable libraries and components
 
 This project helped me move from simply learning programming concepts to actually building structured software systems and thinking more like a software engineer 🚀
-
-#CPP #OOP #SoftwareEngineering #Programming #CleanCode #SystemDesign #SoftwareDevelopment
